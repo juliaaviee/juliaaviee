@@ -1,4 +1,4 @@
-<p align="center">Olá! eu sou a Júlia, estudo ciência da computação e esse é meu Git :P </p>
+<p align="center">Olá! eu sou a Júlia, estudo ciência da computação e esse é meu Git :P</p>
 
 ###
 
@@ -23,12 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=juliaaviee&theme=shades-of-purple" alt="Layout with last medium posts"  />
 </div>
 
 ###
