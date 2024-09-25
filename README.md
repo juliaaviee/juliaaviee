@@ -1,4 +1,4 @@
-<p align="center">Olá!</p>
+<p align="center">Olá! eu sou a Júlia, estudo ciência da computação e esse é meu Git :P </p>
 
 ###
 
