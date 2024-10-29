@@ -1,4 +1,4 @@
-# ( •̀ ω •́ )✧ Júlia Barroso Vieira  
+# ✧ Júlia Barroso Vieira  
 ## 💻 Estudante de Ciência da Computação (4ºsemestre).
 
 ### ⭐ Habilidades:
