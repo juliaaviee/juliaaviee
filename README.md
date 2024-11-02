@@ -20,11 +20,6 @@ Cibersegurança, desenvolvimento de aplicações web, modelagem de dados, estrut
 * Redes neurais.
 * Robótica.
 
-### ⭐ Estudando no momento: 
-* Estatística com R e Python.
-* Estruturas de dados em C.
-* SQL.
-
 ### ⭐ Formação acadêmica: 
 UDF Centro Universitário - Bacharelado, Ciência da Computação (2023 - 2026).
 
