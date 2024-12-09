@@ -2,7 +2,7 @@
 ## 💻 Estudante de Ciência da Computação (4ºsemestre).
 
 ### ⭐ Habilidades:
-* **Linguagens:** JavaScript, Python, PHP, C.
+* **Linguagens:** JavaScript, Python, C.
 * Inglês fluente.
 * Espanhol avançado.
 
