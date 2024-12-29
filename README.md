@@ -10,7 +10,7 @@
 Cibersegurança, desenvolvimento de aplicações web, modelagem de dados, estrutura de dados, arquitetura de computadores, terminal Linux/windows.
 
 ### ⭐ Projeto em destaque:
-* **Menu DataFrame:** Criei um dataframe analisando dados um Cardápio, utilizando Python e Pandas. 
+* **Menu DataFrame:** Criei um dataframe analisando dados de um Cardápio, utilizando Python e Pandas. 
   * Link para o repositório: [[link](https://github.com/juliaaviee/menu-dataframe)]
 
 ### ⭐ Interesses:
