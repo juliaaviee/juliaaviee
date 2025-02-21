@@ -1,13 +1,5 @@
 # ✧ Júlia Barroso Vieira  
-## 💻 Estudante de Ciência da Computação (4ºsemestre).
-
-### ⭐ Habilidades:
-* **Linguagens:** JavaScript, Python, C.
-* Inglês fluente.
-* Espanhol avançado.
-
-### ️⭐ Conhecimentos gerais:
-Cibersegurança, desenvolvimento de aplicações web, modelagem de dados, estrutura de dados, arquitetura de computadores, terminal Linux/windows.
+## 💻 Estudante de Ciência da Computação (5ºsemestre).
 
 ### ⭐ Projeto em destaque:
 * **Menu DataFrame:** Criei um dataframe analisando dados de um Cardápio, utilizando Python e Pandas. 
