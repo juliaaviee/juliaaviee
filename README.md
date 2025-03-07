@@ -1,6 +1,5 @@
 # ✧ Júlia Barroso Vieira  
-## 💻 Estudante de Ciência da Computação (5ºsemestre).
-## Estáriaria em Ciência de Dados em TELEBRAS
+## 💻 Estudante de Ciência da Computação e Estágiaria em Ciência de Dados em TELEBRAS
 
 ### Projeto em destaque:
 * **Menu DataFrame:** Criei um dataframe analisando dados de um Cardápio, utilizando Python e Pandas. 
