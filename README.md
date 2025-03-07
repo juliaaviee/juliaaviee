@@ -1,18 +1,19 @@
 # ✧ Júlia Barroso Vieira  
 ## 💻 Estudante de Ciência da Computação (5ºsemestre).
+## Estáriaria em Ciência de Dados em TELEBRAS
 
-### ⭐ Projeto em destaque:
+### Projeto em destaque:
 * **Menu DataFrame:** Criei um dataframe analisando dados de um Cardápio, utilizando Python e Pandas. 
   * Link para o repositório: [[link](https://github.com/juliaaviee/menu-dataframe)]
 
-### ⭐ Interesses:
+### Interesses:
 * Ciência de dados.
 * Inteligência Artificial.
 * Aprendizagem de máquina.
 * Redes neurais.
 * Robótica.
 
-### ⭐ Formação acadêmica: 
+### Formação acadêmica: 
 UDF Centro Universitário - Bacharelado, Ciência da Computação (2023 - 2026).
 
 💻  **Contato:**
