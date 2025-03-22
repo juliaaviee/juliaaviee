@@ -1,10 +1,11 @@
 # ✧ Júlia Barroso Vieira  
 ## 💻 Estudante de Ciência da Computação e Estagiária em Ciência de Dados em TELEBRAS
 
-### Projeto em destaque:
+### Projetos em destaque:
 * **Menu DataFrame:** Criei um dataframe analisando dados de um Cardápio, utilizando Python e Pandas. 
   * Link para o repositório: [[link](https://github.com/juliaaviee/menu-dataframe)]
-
+* **Análise de Dados:**Analisando dados sobre dinossauros com R. 
+  * Link para o repositório: [[link](https://github.com/juliaaviee/Dino-Analysis)]
 ### Interesses:
 * Ciência de dados.
 * Inteligência Artificial.
