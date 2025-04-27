@@ -8,14 +8,10 @@ I'm continuously improving my skills in areas such as Machine Learning, Artifici
 
 ### Featured Projects
 
-* **Menu DataFrame:** I created a dataframe analyzing menu data using Python and Pandas.
-
-Link to the repository: [Menu-dataframe](https://github.com/juliaaviee/menu-dataframe)
+* **Menu DataFrame:** I created a dataframe analyzing menu data using Python and Pandas. ->  [Menu-dataframe](https://github.com/juliaaviee/menu-dataframe)
 
 
-* **Data Analysis:** Analyzing dinosaur data using R.
-
-Link to the repository: [Dino-Analysis](https://github.com/juliaaviee/Dino-Analysis)
+* **Data Analysis:** Analyzing dinosaur data using R. -> [Dino-Analysis](https://github.com/juliaaviee/Dino-Analysis)
 
 
 ### Education
