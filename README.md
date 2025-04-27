@@ -6,7 +6,7 @@ In my day-to-day work, I handle data analysis, dashboard creation, process autom
 I'm continuously improving my skills in areas such as Machine Learning, Artificial Intelligence, Data Engineering & Analysis, and Automation.
 
 
-### Featured Projects
+### Some of my Projects
 
 * **Menu DataFrame:** I created a dataframe analyzing menu data using Python and Pandas. ->  [Menu-dataframe](https://github.com/juliaaviee/menu-dataframe)
 
