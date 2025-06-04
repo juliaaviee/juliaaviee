@@ -22,6 +22,6 @@ I'm continuously improving my skills in areas such as Machine Learning, Artifici
 
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaviee&theme=graywhite&show_icons=true&hide_border=true&layout=compact"  />
  
