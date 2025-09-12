@@ -1,7 +1,6 @@
 ### Featured Projects
 
-* **Menu DataFrame:** I created a dataframe analyzing menu data using Python and Pandas. ->  [Menu-dataframe](https://github.com/juliaaviee/menu-dataframe)
-
+* **Menu DataFrame:** Analyzing menu data using Python and Pandas. ->  [Menu-dataframe](https://github.com/juliaaviee/menu-dataframe)
 
 * **Data Analysis:** Analyzing dinosaur data using R. -> [Dino-Analysis](https://github.com/juliaaviee/Dino-Analysis)
 
