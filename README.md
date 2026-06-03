@@ -8,15 +8,15 @@
 
 💼 <b>Analista de TI</b> | Data & BI Enthusiast
 
-📊 Atualmente construindo projetos de análise de dados, automação e visualização de informações.
+Atualmente construindo projetos de análise de dados, automação e visualização de informações.
 
 </p>
 
 <p align="left">
 
-🎓 Ciência da Computação <br>
-📈 Dados, BI e Analytics <br>
-🐍 Python • SQL • Power BI • Java
+Ciência da Computação <br>
+Dados, BI e Analytics <br>
+Python • SQL • Power BI • Java
 
 </p>
 
